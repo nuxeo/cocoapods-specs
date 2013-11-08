@@ -16,11 +16,11 @@ Some useful commands:
 
 * Create a new spec
 
-      $ pod spec create GITHUB_REPO
+        $ pod spec create GITHUB_REPO
 
 * Verify your spec
 
-      $ pod spec lint MY_SPEC.podspec --verbose
+        $ pod spec lint MY_SPEC.podspec --verbose
 
 
 ## About Nuxeo
