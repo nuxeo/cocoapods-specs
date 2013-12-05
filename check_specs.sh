@@ -1,1 +1,1 @@
-pod spec lint --no-color --verbose --only-errors .
+pod spec lint --quick --no-color --verbose --only-errors .
