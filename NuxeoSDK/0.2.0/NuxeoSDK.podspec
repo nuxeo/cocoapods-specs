@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
 
 
   s.platform     = :ios, '6.0'
-  s.source       = { :git => "https://github.com/nuxeo/nuxeo-sdk-ios.git", :tag => "0.2.0" }
+  s.source       = { :git => "https://github.com/nuxeo/nuxeo-sdk-ios.git", :tag => "0.2.1" }
   s.source_files  = 'Classes', 'NuxeoSDK/NuxeoSDK/**/*.{h,m}'
   s.exclude_files = 'Classes/Exclude'
 
