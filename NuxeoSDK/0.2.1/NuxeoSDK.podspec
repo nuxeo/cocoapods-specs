@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "NuxeoSDK"
-  s.version      = "0.2.0"
+  s.version      = "0.2.1"
   s.summary      = "Nuxeo iOS SDK"
   s.description  = <<-DESC
                    A library to start building your iOS application connected to Nuxeo through our REST API.
